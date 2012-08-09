@@ -11,7 +11,7 @@ Simple Pong clone written in Java with an early version of Niktino Game Engine.
 
 #Take a look at these screenshots!
 
-![image1](http://raw.github.com/danielnieto/Pong/master/screenshots/screen1.jpg)
+![image1](https://raw.github.com/danielnieto/Pong/master/screenshots/screen1.jpg)
 
-![image2](http://raw.github.com/danielnieto/Pong/master/screenshots/screen2.jpg)
+![image2](https://raw.github.com/danielnieto/Pong/master/screenshots/screen2.jpg)
 
